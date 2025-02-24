@@ -2,7 +2,9 @@
 Hello, I am Reethika Buddi, a final-year Computer Science student with a strong passion for Artificial Intelligence and Machine Learning. I am particularly interested in Deep Learning and its applications in Healthcare. I enjoy developing efficient and scalable code while exploring the intersection of AI, linguistics, and data-driven problem-solving. Additionally, I am passionate about public speaking and engaging in discussions about technology. I am currently seeking opportunities to expand my expertise in machine learning, deep learning, and software development.
 
 ## 📫 How to reach me:
-[LinkedIn](linkedin.com/in/buddi-reethika-chovudary-3382a0255/) • [LeetCode](https://leetcode.com/u/reetz30/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/buddi-reethika-chovudary-3382a0255/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/reetz30/)  
+
 <!--
 **Reethz30/Reethz30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
